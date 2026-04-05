@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DirMove</string>
+    <string name="move_button">Move</string>
+    <string name="permission_rationale">This app needs access to your files to move them to the SD card.</string>
+</resources>
